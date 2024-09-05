@@ -21,7 +21,38 @@ A comprehensive OSINT (Open Source Intelligence) tool for gathering and analyzin
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/osint-tool.git
+   git clone https://github.com/krishnagopaljha/ohsint.git
    cd osint-tool
    ```
+2. **Install Dependenciesy**
 
+   Install the required Python packages using `pip`:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   ## Usage
+
+   1. Run the Tool
+
+      Execute app.py to start the interactive mode:
+
+      ```bash
+      python app.py
+      ```
+
+   2. Interactive Menu
+
+      Interactive Menu
+      - **1. Domain Lookup**: Enter a domain to retrieve WHOIS information and check availability.
+      - **2. IP Lookup**: Enter an IP address to get its details.
+      - **3. Google Search**: Enter a search query to perform a Google search.
+      - **4. Address Geocoding**: Enter an address to get its geographic coordinates.
+      - **5. Technology Stack Detection**: Enter a URL to detect technologies used on the website.
+      - **6. SSL/TLS Certificate Details**: Enter a domain to check SSL/TLS certificate details.
+      - **7. Exit**: Exit the tool.
+
+     3. Input Prompts
+
+        Follow the prompts to input the necessary information for each feature. Results will be displayed directly in the            terminal.
