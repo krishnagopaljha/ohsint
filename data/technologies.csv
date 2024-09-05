@@ -1,0 +1,84 @@
+category,subcategory,technology,identifier
+Frontend Technologies,JavaScript Frameworks/Libraries,React,react
+Frontend Technologies,JavaScript Frameworks/Libraries,Angular,angular
+Frontend Technologies,JavaScript Frameworks/Libraries,Vue.js,vue.js
+Frontend Technologies,JavaScript Frameworks/Libraries,jQuery,jquery
+Frontend Technologies,CSS Frameworks,Bootstrap,bootstrap
+Frontend Technologies,CSS Frameworks,Tailwind CSS,tailwindcss
+Frontend Technologies,CSS Frameworks,Bulma,bulma
+Frontend Technologies,Build Tools,Webpack,webpack
+Frontend Technologies,Build Tools,Parcel,parcel
+Frontend Technologies,Build Tools,Gulp,gulp
+Frontend Technologies,Preprocessors,Sass,sass
+Frontend Technologies,Preprocessors,LESS,less
+Frontend Technologies,UI Components,Material-UI,material-ui
+Frontend Technologies,UI Components,Ant Design,antdesign
+Backend Technologies,Programming Languages,Python,python
+Backend Technologies,Programming Languages,Ruby,ruby
+Backend Technologies,Programming Languages,PHP,php
+Backend Technologies,Programming Languages,Java,java
+Backend Technologies,Programming Languages,C#,c#
+Backend Technologies,Programming Languages,Node.js,node.js
+Backend Technologies,Frameworks,Django,django
+Backend Technologies,Frameworks,Rails,rails
+Backend Technologies,Frameworks,Laravel,laravel
+Backend Technologies,Frameworks,Express,express
+Backend Technologies,Frameworks,Spring,spring
+Backend Technologies,APIs,REST,rest
+Backend Technologies,APIs,GraphQL,graphql
+Databases,Relational Databases,MySQL,mysql
+Databases,Relational Databases,PostgreSQL,postgresql
+Databases,Relational Databases,Oracle,oracle
+Databases,NoSQL Databases,MongoDB,mongodb
+Databases,NoSQL Databases,Cassandra,cassandra
+Databases,NoSQL Databases,Redis,redis
+Hosting and Servers,Web Servers,Apache,apache
+Hosting and Servers,Web Servers,Nginx,nginx
+Hosting and Servers,Web Servers,IIS,iis
+Hosting and Servers,Cloud Platforms,AWS,aws
+Hosting and Servers,Cloud Platforms,Azure,azure
+Hosting and Servers,Cloud Platforms,Google Cloud,google cloud
+Hosting and Servers,Cloud Platforms,DigitalOcean,digitalocean
+Hosting and Servers,Containerization,Docker,docker
+Hosting and Servers,Containerization,Kubernetes,kubernetes
+Hosting and Servers,Serverless,AWS Lambda,lambda
+Hosting and Servers,Serverless,Azure Functions,azure functions
+Content Management Systems (CMS),General CMS,WordPress,wordpress
+Content Management Systems (CMS),General CMS,Joomla,joomla
+Content Management Systems (CMS),General CMS,Drupal,drupal
+Content Management Systems (CMS),Headless CMS,Contentful,contentful
+Content Management Systems (CMS),Headless CMS,Strapi,strapi
+Content Management Systems (CMS),Headless CMS,Sanity,sanity
+Analytics and Monitoring,Analytics,Google Analytics,google-analytics
+Analytics and Monitoring,Analytics,Mixpanel,mixpanel
+Analytics and Monitoring,Analytics,Amplitude,amplitude
+Analytics and Monitoring,Performance Monitoring,New Relic,new relic
+Analytics and Monitoring,Performance Monitoring,Datadog,datadog
+Analytics and Monitoring,Performance Monitoring,Sentry,sentry
+Security,WAF (Web Application Firewall),Cloudflare,cloudflare
+Security,WAF (Web Application Firewall),AWS WAF,aws waf
+Security,SSL/TLS Certificates,Let's Encrypt,let's encrypt
+Security,SSL/TLS Certificates,Comodo,comodo
+Security,Authentication/Authorization,OAuth,oauth
+Security,Authentication/Authorization,OpenID Connect,openid connect
+Security,Authentication/Authorization,JWT,jwt
+Version Control and CI/CD,Version Control,GitHub,github
+Version Control and CI/CD,Version Control,GitLab,gitlab
+Version Control and CI/CD,Version Control,Bitbucket,bitbucket
+Version Control and CI/CD,CI/CD Tools,Jenkins,jenkins
+Version Control and CI/CD,CI/CD Tools,CircleCI,circleci
+Version Control and CI/CD,CI/CD Tools,Travis CI,travis ci
+Version Control and CI/CD,CI/CD Tools,GitHub Actions,github actions
+Miscellaneous,CDN (Content Delivery Network),Cloudflare,cloudflare
+Miscellaneous,CDN (Content Delivery Network),Akamai,akamai
+Miscellaneous,CDN (Content Delivery Network),CloudFront,cloudfront
+Miscellaneous,Tag Managers,Google Tag Manager,google tag manager
+Miscellaneous,Tag Managers,Tealium,tealium
+Miscellaneous,Email Services,SendGrid,sendgrid
+Miscellaneous,Email Services,Mailgun,mailgun
+Miscellaneous,Email Services,Amazon SES,amazon ses
+Miscellaneous,Search Engines,Elasticsearch,elasticsearch
+Miscellaneous,Search Engines,Algolia,algolia
+Miscellaneous,File Storage,S3,s3
+Miscellaneous,File Storage,Google Cloud Storage,google cloud storage
+Miscellaneous,File Storage,Azure Blob Storage,azure blob storage
