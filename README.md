@@ -1,4 +1,4 @@
-# OSINT Tool
+# OH$INT
 
 A comprehensive OSINT (Open Source Intelligence) tool for gathering and analyzing information from various sources. This tool supports domain lookup, IP lookup, Google search, address geocoding, technology stack detection, and SSL/TLS certificate details.
 
