@@ -22,7 +22,7 @@ A comprehensive OSINT (Open Source Intelligence) tool for gathering and analyzin
 
    ```bash
    git clone https://github.com/krishnagopaljha/ohsint.git
-   cd osint-tool
+   cd osint
    ```
 2. **Install Dependenciesy**
 
@@ -39,7 +39,7 @@ A comprehensive OSINT (Open Source Intelligence) tool for gathering and analyzin
       Execute app.py to start the interactive mode:
 
       ```bash
-      python app.py
+      python ohsint.py
       ```
 
    2. Interactive Menu
